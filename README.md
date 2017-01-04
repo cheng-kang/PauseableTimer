@@ -1,5 +1,6 @@
 # PauseableTimer
-Pauseable Timer is a pause-able timer written in Swift.
+Pauseable Timer
+<img src="https://raw.githubusercontent.com/cheng-kang/PauseableTimer/master/PauseableTimer.png" width="30"> is a pause-able timer written in Swift.
 
 There are occassions when we need timers to pause, however, this feature is not implemented in Timer(Swift3). Thus, after some failed attempts, I create this pause-able timer which hopefully could be useful to you.
 
