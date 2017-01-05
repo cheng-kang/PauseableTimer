@@ -1,4 +1,7 @@
 # PauseableTimer
+
+> 中文介绍：[《Pauseable Timer 一个可暂停的计时器》](http://chengkang.me/2017/01/05/PauseableTimer%20%E4%B8%80%E4%B8%AA%E5%8F%AF%E6%9A%82%E5%81%9C%E7%9A%84%E8%AE%A1%E6%97%B6%E5%99%A8/)
+
 **Pauseable Timer** is a pause-able timer written in Swift.
 
 There are occassions when we need timers to pause, however, this feature is not implemented in Timer(Swift3). Thus, after some failed attempts, I create this pause-able timer which hopefully could be useful to you.
